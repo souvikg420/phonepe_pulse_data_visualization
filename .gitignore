@@ -1,0 +1,13 @@
+.vscode/*
+.DS_Store
+.venv/
+__pycache__/
+.vscode/
+.DS_Store
+!.gitignore
+!README.md
+!app.py
+!phonepeapp.py
+!phonepetester.ipynb
+!phonepetester1.ipynb
+
